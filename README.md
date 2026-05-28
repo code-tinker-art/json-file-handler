@@ -11,12 +11,6 @@ A robust Node.js utility to handle JSON files effortlessly with automatic file w
 - ⏱️ **Async Queue**: Serialized write operations to prevent race conditions
 - 📦 **ES Module**: Built with modern JavaScript (ES6+)
 
-## Installation
-
-```bash
-npm install custom-jsonfilehandler
-```
-
 ## Usage
 
 ### Basic Setup
