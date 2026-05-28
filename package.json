@@ -1,0 +1,15 @@
+{
+  "name": "custom-jsonfilehandler",
+  "version": "1.0.0",
+  "description": "A script to handle JSON files effortlessly.",
+  "main": "main.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "cd test & node test.js"
+  },
+  "author": "S.S.Magizhnun",
+  "license": "ISC"
+}

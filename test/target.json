@@ -1,0 +1,20 @@
+{
+    "project": {
+        "name": "Nexus-Core",
+        "version": "2.0.0-beta",
+        "status": "production"
+    },
+    "database": {
+        "enabled": true,
+        "settings": {
+            "host": "127.0.0.1",
+            "dbName": "nexus_db",
+            "port": 5432
+        }
+    },
+    "meta": {
+        "author": {
+            "name": "DeveloperX"
+        }
+    }
+}
