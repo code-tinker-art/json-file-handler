@@ -1,7 +1,7 @@
 {
     "project": {
-        "name": "Nexus-Core", // 😅 random name
-        "version": "2.0.0-beta",
+        "name": "Nexus-Core", // 😅 random name for prototype
+        "version": "2.0.0-beta",   
         "status": "production"
     },
     "database": {
@@ -14,7 +14,7 @@
     },
     "meta": {
         "author": {
-            "name": "DeveloperX"
+            "name": "S.S.Magizhnun"
         }
     }
 }
