@@ -141,7 +141,7 @@ The handler logs errors to the console for:
 
 ## License
 
-ISC
+MIT
 
 ## Author
 
